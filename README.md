@@ -4,7 +4,6 @@
 
 - [Description](#description)
 - [Usage](#usage)
-- [Application](#application)
 - [Questions](#questions)
 
 ## Description
